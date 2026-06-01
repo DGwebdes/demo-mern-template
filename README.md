@@ -105,5 +105,3 @@ npm run dev
 * **JWT Rotation**: Refresh tokens are stored securely to maintain sessions without compromising security.
 
 ---
-
-**Would you like me to add a section on how to specifically use the Winston logger for debugging your new endpoints?**
